@@ -20,7 +20,7 @@
 		<sonar.projectKey>calculator</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>paste your token here</sonar.login>
+		<sonar.login>sqp_edcbf1876fa48b53e26be34c436a1d4f40ca8036</sonar.login>
 
 	</properties>
 
